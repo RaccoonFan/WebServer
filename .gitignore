@@ -34,3 +34,5 @@
 # Otheres
 core
 .vscode
+/.vs/WebServer/v15/ipch/AutoPCH
+/.vs
